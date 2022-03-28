@@ -1,5 +1,5 @@
 # twitch+
-A Personalized Twitch Resources Recommendation Engine
+• A Personalized Twitch Resources Recommendation Engine
 
 Designed and built a full-stack web application for users to search twitch resources (stream/video/clip) and get recommendations.
 
